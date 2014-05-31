@@ -31,10 +31,10 @@ while i<len(lista2):
 
 
 if vouna>nhsi and vouna>athina:
-    print "παρε τα βουνα"
+    print "Πήγαινε σε βουνό"
 elif nhsi> vouna and nhsi>athina:
-    print "πηγαινε σε νησι"
+    print "Πηγαινε σε νησι"
 else:
-    print "μείνε αθήνα"
+    print "Μείνε στην αθήνα"
     
     
