@@ -22,7 +22,7 @@ if tokens_len > 1:
             name = tokens[int(arg)]
             print 'Hi ' + name + '!',
         else:
-            print "I'm still confused because you haven't told you your name :-/ See ya"
+            print "I'm still confused because you haven't told me your name :-/ See ya"
             exit(0)
     name = arg
 print 'Hello ' + name + "!"
