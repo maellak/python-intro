@@ -36,5 +36,6 @@ elif nhsi> vouna and nhsi>athina:
     print "Πηγαινε σε νησι"
 else:
     print "Μείνε στην αθήνα"
-    
+
+print "Allagh"
     
